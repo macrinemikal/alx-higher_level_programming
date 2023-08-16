@@ -2,7 +2,7 @@
 
 
 def magic_calculation(a, b):
-    """Match bytecode provided HSC."""
+    """Match bytecode provided hsch."""
     from magic_calculation_102 import add, sub
 
     if a < b:
